@@ -18,4 +18,4 @@
 #pycharm [各种快捷键](https://cloud.tencent.com/developer/article/1739012)
 
 
-python[typing —— 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html),返回类型及形参类型的表示。
+python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html),返回类型及形参类型的表示。
