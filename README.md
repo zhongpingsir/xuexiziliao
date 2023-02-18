@@ -29,4 +29,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 [torch.split](https://pytorch.org/docs/stable/generated/torch.split.html)
 
-'bold  哈哈'
+
+
+# markdown语法
+  **bold  粗体**
