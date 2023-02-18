@@ -24,4 +24,4 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [puthon 中文标准库文档](https://docs.python.org/zh-cn/3/library/index.html)
 
 
-#heading  torch使用方法
+#  torch使用方法
