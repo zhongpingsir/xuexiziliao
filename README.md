@@ -12,3 +12,7 @@
 • 找例子 xxx sample
 • 找空项目架子 xxx starter / xxx boilerplate 
 • 找教程  xxx tutorial
+
+
+
+#pycharm 各种快捷键（https://cloud.tencent.com/developer/article/1739012）
