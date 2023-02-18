@@ -25,4 +25,4 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 
 #  torch使用方法
-torch.split(https://pytorch.org/docs/stable/generated/torch.split.html)
+[torch.split](https://pytorch.org/docs/stable/generated/torch.split.html)
