@@ -51,3 +51,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 ---
 
 [markdown语法使用](https://markdown.com.cn/editor/)
+
+---
+
+`https://mp.weixin.qq.com/`
