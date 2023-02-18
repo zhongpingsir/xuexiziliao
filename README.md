@@ -26,4 +26,5 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 #  torch使用方法
 [张量的相关函数](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/chapter-2/2.4-method-tensor.html)
+
 [torch.split](https://pytorch.org/docs/stable/generated/torch.split.html)
