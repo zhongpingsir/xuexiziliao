@@ -15,4 +15,4 @@
 
 
 
-#pycharm [各种快捷键]（https://cloud.tencent.com/developer/article/1739012）
+#pycharm [各种快捷键](https://cloud.tencent.com/developer/article/1739012)
