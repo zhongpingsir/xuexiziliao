@@ -30,6 +30,9 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [torch.split](https://pytorch.org/docs/stable/generated/torch.split.html)
 
 
+[Class ConcatDataset](https://pytorch.org/docs/stable/_modules/torch/utils/data/dataset.html#ConcatDataset)
+
+
 
 # markdown语法
   **bold 粗体**
