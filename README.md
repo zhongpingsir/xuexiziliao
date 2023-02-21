@@ -21,7 +21,8 @@
 python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html),返回类型及形参类型的表示。
 
 
-[puthon 中文标准库文档](https://docs.python.org/zh-cn/3/library/index.html)
+[python 中文标准库文档](https://docs.python.org/zh-cn/3/library/index.html)
+[python 标准库使用]（https://pymotw.com/3/）
 
 
 #  torch使用方法
