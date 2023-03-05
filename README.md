@@ -23,7 +23,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 [python 中文标准库文档](https://docs.python.org/zh-cn/3/library/index.html)
 
-[python 标准库使用](https://pymotw.com/3/)    (https://www.aiuai.cn/aifarm1790.html)这个网址没看
+[python 标准库使用](https://pymotw.com/3/)    
 
 
 #  torch使用方法
@@ -39,7 +39,8 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [torch.utils.data.random_split](https://pytorch.org/docs/stable/data.html?highlight=random_split#torch.utils.data.random_split)
 
 
-[enisum使用方法](https://zhuanlan.zhihu.com/p/361209187)
+[enisum使用方法](https://zhuanlan.zhihu.com/p/361209187)(https://www.aiuai.cn/aifarm1790.html)这个网址没看
+
 [torch.unsqueeze() 和 torch.squeeze()](https://zhuanlan.zhihu.com/p/86763381)
 
 # markdown语法
