@@ -40,7 +40,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 
 [enisum使用方法](https://zhuanlan.zhihu.com/p/361209187)
-
+[torch.unsqueeze() 和 torch.squeeze()](https://zhuanlan.zhihu.com/p/86763381)
 
 # markdown语法
   **bold 粗体**
