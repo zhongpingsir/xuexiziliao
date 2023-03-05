@@ -39,7 +39,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [torch.utils.data.random_split](https://pytorch.org/docs/stable/data.html?highlight=random_split#torch.utils.data.random_split)
 
 
-[enisum使用方法]（https://zhuanlan.zhihu.com/p/361209187）
+[enisum使用方法](https://zhuanlan.zhihu.com/p/361209187)
 
 
 # markdown语法
