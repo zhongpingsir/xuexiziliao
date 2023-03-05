@@ -23,7 +23,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 
 [python 中文标准库文档](https://docs.python.org/zh-cn/3/library/index.html)
 
-[python 标准库使用](https://pymotw.com/3/)
+[python 标准库使用](https://pymotw.com/3/)    (https://www.aiuai.cn/aifarm1790.html)这个网址没看
 
 
 #  torch使用方法
