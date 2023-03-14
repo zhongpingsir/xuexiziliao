@@ -18,7 +18,7 @@
 #pycharm [各种快捷键](https://cloud.tencent.com/developer/article/1739012)
 
 
-python教程(https://www.liaoxuefeng.com/wiki/1016959663602400)
+python教程[廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html),返回类型及形参类型的表示。
 
