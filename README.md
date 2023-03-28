@@ -44,6 +44,7 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [enisum使用方法](https://zhuanlan.zhihu.com/p/361209187)(https://www.aiuai.cn/aifarm1790.html)这个网址没看
 
 [torch.unsqueeze() 和 torch.squeeze()](https://zhuanlan.zhihu.com/p/86763381)
+[torch.gather()的正确理解方法](https://blog.csdn.net/weixin_42200930/article/details/108995776)
 
 # markdown语法
   **bold 粗体**
