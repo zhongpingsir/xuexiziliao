@@ -46,6 +46,8 @@ python[ 类型注解支持](https://docs.python.org/zh-cn/3/library/typing.html)
 [torch.unsqueeze() 和 torch.squeeze()](https://zhuanlan.zhihu.com/p/86763381)
 [torch.gather()的正确理解方法](https://blog.csdn.net/weixin_42200930/article/details/108995776)
 
+[torch.scatter_](https://zhuanlan.zhihu.com/p/339043454)
+
 # markdown语法
   **bold 粗体**
   1. 12e312
