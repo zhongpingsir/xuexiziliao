@@ -1,5 +1,6 @@
 # xuexiziliao
 [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/index.html)
+<br>
 #python -m ipykernel install --user --name env_name --display-name "env_name"
 找开源项目的一些途径
 • https://github.com/trending/
