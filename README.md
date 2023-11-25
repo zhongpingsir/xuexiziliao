@@ -1,4 +1,5 @@
-# xuexiziliao
+# 学习资料
+
 [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/index.html)
 <br>
 #python -m ipykernel install --user --name env_name --display-name "env_name"
