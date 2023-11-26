@@ -2,7 +2,7 @@
 
 [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/index.html)
 <br>
-
+[PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial/tree/master)<br>
 
 找开源项目的一些途径
 • https://github.com/trending/
